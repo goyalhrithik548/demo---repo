@@ -6,5 +6,13 @@ Some descriptions.
 
 
 
-Watch tutorial
+Watch tutorial 
+
+
+
+\## Local Development
+
+
+
+1. Open index.html
 
